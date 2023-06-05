@@ -1,0 +1,5 @@
+.venv
+.well-known
+openapi.yaml
+tmp
+.env
